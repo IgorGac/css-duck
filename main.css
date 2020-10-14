@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.grass{
+    height: 80px;
+    width: 100vw;
+    background: green;
+}
+.dirt{
+    height: 500px;
+    width: 100vw;
+    background: saddlebrown;
+}
+.ground{
+    position: absolute;
+    top: 600px;
+}
